@@ -1,0 +1,4 @@
+Hey this is the first file from CLI that i am writing 
+for GIT session
+ENjoy the course
+hey this seems niec with nano 
